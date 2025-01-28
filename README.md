@@ -23,7 +23,7 @@
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/yourusername/strike-force.git  
+   git clone https://github.com/variendarkgril/StrikeForce.git  
    cd strike-force  
    ```  
 
@@ -39,7 +39,7 @@
 Run the tool with the target domain as an argument:  
 
 ```bash  
-python3 subdomain_enumerator.py example.com  
+python3 SrtikeForce.py example.com  
 ```  
 
 ### Key Arguments  
@@ -64,7 +64,7 @@ python3 subdomain_enumerator.py example.com
 
 #### Full Example:  
 ```bash  
-python3 subdomain_enumerator.py example.com -w wordlist.txt -p 22 80 443 -o results.txt -open-ports  
+python3 SrtikeForce.py example.com -w wordlist.txt -p 22 80 443 -o results.txt -open-ports  
 ```  
 
 ---  
@@ -138,7 +138,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact  
 
-For questions or support, contact us at **strikerop@example.com** or open an issue on GitHub.  
+For questions or support, contact us at ([Striker OP](https://github.com/variendarkgirl)) & ([Striker OP](https://github.com/str1k3r0p)) or open an issue on GitHub.  
 
 ---  
 
