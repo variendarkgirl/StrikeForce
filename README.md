@@ -23,7 +23,7 @@
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/variendarkgril/StrikeForce.git  
+   git clone https://github.com/variendarkgirl/StrikeForce.git  
    cd strike-force  
    ```  
 
