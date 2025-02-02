@@ -138,7 +138,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact  
 
-For questions or support, contact us at ([Striker OP](https://github.com/variendarkgirl)) & ([Striker OP](https://github.com/str1k3r0p)) or open an issue on GitHub.  
+For questions or support, contact us at ([Varien Dark Girl](https://github.com/variendarkgirl)) & ([Striker OP](https://github.com/str1k3r0p)) or open an issue on GitHub.  
 
 ---  
 
