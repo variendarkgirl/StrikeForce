@@ -10,7 +10,7 @@ from colorama import Fore, Style, init
 from tqdm import tqdm
 import time
 from collections import defaultdict  # Added this line to fix the NameError
-
+ 
 # Initialize colorama
 init(autoreset=True)
 
