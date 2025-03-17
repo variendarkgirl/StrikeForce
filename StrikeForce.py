@@ -14,7 +14,7 @@ from collections import defaultdict  # Added this line to fix the NameError
 # Initialize colorama
 init(autoreset=True)
 
-# Configuration
+
 COMMON_PORTS = [21, 22, 23, 80, 443, 8080, 8443]
 MAX_WORKERS = 100
 REQUEST_TIMEOUT = 10
